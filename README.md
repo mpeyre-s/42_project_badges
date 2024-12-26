@@ -76,7 +76,7 @@ Simply add the following line to your `README.md` file :
 
 ```html
 <div align="center">
-  <a href="https://github.com/mpeyre-s/42-libft"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg"/></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft.svg"/></a>
 </div>
 ```
 
