@@ -5,46 +5,48 @@
 
 ---
 
-![born2beroot](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot.svg)
-![born2beroot_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot_bonus.svg)
-![cpp](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cpp.svg)
-![cpp_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cpp_bonus.svg)
-![cub3d](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cub3d.svg)
-![cub3d_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cub3d_bonus.svg)
-![fdf](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fdf.svg)
-![fdf_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fdf_bonus.svg)
-![fractol](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol.svg)
-![fractol_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol_bonus.svg)
-![ft_irc](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_irc.svg)
-![ft_irc_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_irc_bonus.svg)
-![ft_printf](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_printf.svg)
-![ft_printf_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_printf_bonus.svg)
-![ft_transcendence](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_transcendence.svg)
-![ft_transcendence_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_transcendence_bonus.svg)
-![get_next_line](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line.svg)
-![get_next_line_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line_bonus.svg)
-![inception](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception.svg)
-![inception_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception_bonus.svg)
-![libft](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft.svg)
-![libft_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg)
-![minirt](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minirt.svg)
-![minirt_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minirt_bonus.svg)
-![minishell](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minishell.svg)
-![minishell_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minishell_bonus.svg)
-![minitalk](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minitalk.svg)
-![minitalk_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minitalk_bonus.svg)
-![netpractice](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/netpractice.svg)
-![netpractice_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/netpractice_bonus.svg)
-![philosophers](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/philosophers.svg)
-![philosophers_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/philosophers_bonus.svg)
-![pipex](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/pipex.svg)
-![pipex_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/pipex_bonus.svg)
-![push_swap](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/push_swap.svg)
-![push_swap_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/push_swap_bonus.svg)
-![so_long](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/so_long.svg)
-![so_long_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/so_long_bonus.svg)
-![webserv](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/webserv.svg)
-![webserv_bonus](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/webserv_bonus.svg)
+<div align="center">
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/born2beroot_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cpp.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cpp_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cub3d.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/cub3d_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fdf.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fdf_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/fractol_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_irc.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_irc_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_printf.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_printf_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_transcendence.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/ft_transcendence_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/get_next_line_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/inception_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minirt.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minirt_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minishell.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minishell_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minitalk.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/minitalk_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/netpractice.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/netpractice_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/philosophers.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/philosophers_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/pipex.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/pipex_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/push_swap.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/push_swap_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/so_long.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/so_long_bonus.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/webserv.svg"/>
+<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/webserv_bonus.svg"/>
+</div>
 
 ---
 
