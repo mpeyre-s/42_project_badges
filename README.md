@@ -53,9 +53,6 @@
 ## Usage
 
 Simply add the following line to your `README.md` file :
-> 💡 Completed with bonuses: append `_bonus` to `PROJECT_NAME`.
->
-> Example: `libft_bonus.svg`
 
 ### HTML
 ```html
@@ -67,7 +64,21 @@ Simply add the following line to your `README.md` file :
 ![PROJECT_NAME](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg)
 ```
 
+### Bonus
 
+> Completed with bonuses: append `_bonus` to `PROJECT_NAME`.
+>
+> Example: `libft_bonus.svg`
+
+### 💡 Tip
+
+> You can include HTML within Markdown to center badges.
+
+```html
+<div align="center">
+  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/>
+</div>
+```
 
 ## Available badges
 
