@@ -56,12 +56,12 @@ Simply add the following line to your `README.md` file :
 
 ### HTML
 ```html
-<a href="https://github.com/USERNAME/PROJECT_NAME"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/></a>
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/></a>
 ```
 ### Markdown
 
 ```md
-[![PROJECT_NAME](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg)](https://github.com/USERNAME/PROJECT_NAME)
+[![PROJECT_NAME](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg)](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
 ```
 
 ### Bonus
