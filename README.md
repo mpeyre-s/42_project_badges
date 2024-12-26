@@ -1,4 +1,7 @@
-# 🧑‍🎓 42 Project Badges, <span style="font-size: 0.7em;">by [Mathis Peyre Schortzen](https://github.com/mpeyre-s)</span>
+<div align="center">
+  <h1>🧑‍🎓 42 Project Badges</h1>
+  <span>by <a href="https://github.com/mpeyre-s">Mathis Peyre Schortzen</a> (login : mpeyre-s)</span>
+</div>
 
 ---
 
