@@ -56,12 +56,12 @@ Simply add the following line to your `README.md` file :
 
 ### HTML
 ```html
-<img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/>
+<a href="https://github.com/USERNAME/PROJECT_NAME"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/></a>
 ```
 ### Markdown
 
 ```md
-![PROJECT_NAME](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg)
+[![PROJECT_NAME](https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg)](https://github.com/USERNAME/PROJECT_NAME)
 ```
 
 ### Bonus
@@ -76,7 +76,7 @@ Simply add the following line to your `README.md` file :
 
 ```html
 <div align="center">
-  <img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/PROJECT_NAME.svg"/>
+  <a href="https://github.com/mpeyre-s/42-libft"><img src="https://github.com/mpeyre-s/42_project_badges/raw/main/badges/libft_bonus.svg"/></a>
 </div>
 ```
 
